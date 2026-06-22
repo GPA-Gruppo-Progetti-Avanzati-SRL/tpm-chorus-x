@@ -8,8 +8,8 @@ cloud.google.com/go/compute/metadata v0.9.0/go.mod h1:E0bWwX5wTnLPedCKqk3pJmVgCB
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-cache-common v0.0.25 h1:VY7mAXVaLGGCjhlFUUJzSOYH5IjAZZkJuifN5LV+djE=
 github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-cache-common v0.0.25/go.mod h1:T2v+DgXZWdZH4GsNeRlZyM28lqZCCkqcNp+8FRPkCA4=
-github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-chorus v0.1.3-RC68 h1:9bP18e5RouDM+Cy/WtMrLbGKMNHiltNzj7XiF6ut2oY=
-github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-chorus v0.1.3-RC68/go.mod h1:tW9ZnFeZO6/Y2EBNgYbMTpU+SlI2V/k7bpZa1sQ89GI=
+github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-chorus v0.1.3-RC69 h1:cm+nZ8UTOaImbEQLndEKXbeZ6OWgkOXbQF6qI+eB0rE=
+github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-chorus v0.1.3-RC69/go.mod h1:tW9ZnFeZO6/Y2EBNgYbMTpU+SlI2V/k7bpZa1sQ89GI=
 github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-common v0.1.95 h1:vuA6MhQ0/wuJmZnsPQxxc2viRo1PmtT4KQ5ZjVe4c8M=
 github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-common v0.1.95/go.mod h1:Q456LEsf8ywWb9GU1sIesWakRSIWe6MisfM2Q5lDJlw=
 github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-databricks-common v0.0.8 h1:y2Rhe8udRRAnXeYasMl8q6/k2SyYkpxgMDJpLH0WoRs=
