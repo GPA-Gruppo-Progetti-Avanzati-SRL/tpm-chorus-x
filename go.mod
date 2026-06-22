@@ -1,4 +1,4 @@
-module tpm-chorus-x
+module github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-chorus-x
 
 go 1.26.4
 
